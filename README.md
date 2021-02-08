@@ -1,2 +1,2 @@
 # DataStructure
-for personal study :) by Python
+for personal study :)
